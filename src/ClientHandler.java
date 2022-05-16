@@ -4,7 +4,7 @@ import java.net.*;
 public class ClientHandler implements Runnable {
     //declare variables
     //Constructor
-    public ClientHandler (Socket socket, int clientId, Database db) {
+    public ClientHandler(Socket socket, int clientId, Database db) {
         //complete the constructor
     }
 
